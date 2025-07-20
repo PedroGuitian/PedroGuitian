@@ -1,6 +1,6 @@
 # Pedro Guitian
 
-I'm a **Computer Science major** and **Applied AI Minor** at Marist University (GPA: 3.92)
+I'm a **Computer Science major** and **Applied AI Minor** at Marist University (3.92 GPA).
 
 I'm currently focused on **AI-Integration through RESTful APIs, full-stack development, and slowly learning new skills such as cloud**.
 
