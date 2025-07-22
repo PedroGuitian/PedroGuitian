@@ -44,7 +44,7 @@ I'm currently focused on **AI-Integration through RESTful APIs, full-stack devel
 
 - 🎓 Presidential Scholar at Marist University (3.92 GPA)
 - 💼 Software Engineering Intern @ Travelers (Summer 2025)
-- 🚣 Varsity Rowing Team — balancing athletics and academics with strong time management (Sep 2023 - Jan 2025)
+- 🚣 Varsity Rowing Team — balancing athletics and academics with strong time management (Sep 2023 - Jan 2025
 
 ---
 
