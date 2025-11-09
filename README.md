@@ -8,7 +8,7 @@ I'm currently focused on **building full-stack applicsations such as Cramora AI*
 
 ## 👨‍💻 Projects I'm proud of
  
-- **[Cramora AI](https://www.cramora.com/) (In progress)** — An AI-powered learning platform that generates 1-page cram sheets and predicts test questions to help students cram more efficiently. Built using Django, JavaScript, and LLM-powered APIs.  
+- **[Cramora AI](https://www.cramora.com/)** — An AI-powered learning platform that generates 1-page cram sheets and predicts test questions to help students cram more efficiently. Built using Django, JavaScript, and LLM-powered APIs.  
 - **Email Client** — Full-stack email application, implementing asynchronous email sending, mailbox updates, archive/unarchive, and reply features. Built using Django, JavaScript, and SQLite
 - **Auction Marketplace** —  Full-stack web application that allows users to list items, place bids in real time, and manage watchlists in a dynamic, user-friendly interface.
   
@@ -34,9 +34,9 @@ I'm currently focused on **building full-stack applicsations such as Cramora AI*
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 
-- **Languages:** Python, JavaScript, SQL, HTML, CSS
-- **Frameworks & Libraries:** Django, Flask, React (learning), PostgreSQL
-- **Other:** Git/GitHub, Swagger, AI APIs, API/REST, AI Integration, Large Language Models (LLM’s), Agile, Jira, Object-Oriented-Programming (OOP), GitHub Actions
+- **Languages & Frameworks:**  Python, Java, SQL, HTML5, CSS, JavaScript, Django, React
+- **Tools & Technologies:**  API/REST, Swagger, Git, GitHub, GitHub Actions, Jira, PostgreSQL, MySQL, CI/CD, MERN,
+Agile, Object-Oriented-Programming OOP, LLM/AI integration
 
 ---
 
