@@ -50,7 +50,7 @@ Agile, Object-Oriented-Programming OOP, LLM/AI integration
 
 ## 🌟 What I'm working on
 
-- Launching **[Cramora AI](https://www.cramora.com/)** in Fall 2025. An app that aims to help students prepare for exams last minute with the power of AI
+- Just launched **[Cramora AI](https://www.cramora.com/)**. An app that aims to help students prepare for exams last minute with the power of AI
 - Exploring AI integrations into web apps through different models
 - Continuously improving my engineering skills. Curretly taking Harvard CS50 - Web Programming with **Python** and **JavaScript**
 
