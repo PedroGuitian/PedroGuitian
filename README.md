@@ -9,7 +9,7 @@ I'm currently focused on **building full-stack applications such as Cramora AI**
 ## 👨‍💻 Projects I'm proud of
  
 - **[Cramora AI](https://www.cramora.com/)** — An AI-powered learning platform that generates 1-page cram sheets and predicts test questions to help students cram more efficiently. Built using Django, JavaScript, and LLM-powered APIs.  
-- **Email Client** — Full-stack email application, implementing asynchronous email sending, mailbox updates, archive/unarchive, and reply features. Built using Django, JavaScript, and SQLite
+- **Email Client** — Full-stack email application, implementing asynchronous email sending, mailbox updates, archive/unarchive, and reply features. Built using Django, JavaScript, and SQLite.
 - **Auction Marketplace** —  Full-stack web application that allows users to list items, place bids in real time, and manage watchlists in a dynamic, user-friendly interface.
   
 
@@ -42,7 +42,7 @@ Agile, Object-Oriented-Programming OOP, LLM/AI integration
 
 ## 🏆 Highlights
 
-- 🎓 Presidential Scholar at Marist University totaling $80,000 in merit grants (3.92 GPA)
+- 🎓 Presidential Scholar at Marist University, totaling $80,000 in merit grants (3.92 GPA)
 - 💼 Software Engineering Intern @ Travelers (Summer 2025)
 - 🚣 Varsity Rowing Team — balancing athletics and academics with strong time management (Sep 2023 - Jan 2025)
 
