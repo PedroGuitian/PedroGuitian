@@ -36,7 +36,7 @@ I'm currently focused on **building full-stack applications such as Cramora AI**
 
 - **Languages & Frameworks:**  Python, Java, SQL, HTML5, CSS, JavaScript, Django, React
 - **Tools & Technologies:**  API/REST, Swagger, Git, GitHub, GitHub Actions, Jira, PostgreSQL, MySQL, CI/CD, MERN,
-Agile, Object-Oriented-Programming OOP, LLM/AI integration
+Agile, Object-Oriented Programming OOP, LLM/AI integration
 
 ---
 
