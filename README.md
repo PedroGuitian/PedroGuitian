@@ -52,7 +52,7 @@ Agile, Object-Oriented Programming OOP, LLM/AI integration
 
 - Just launched **[Cramora AI](https://www.cramora.com/)**. An app that aims to help students prepare for exams last minute with the power of AI
 - Exploring AI integrations into web apps through different models
-- Continuously improving my engineering skills. Curretly taking Harvard CS50 - Web Programming with **Python** and **JavaScript**
+- Continuously improving my engineering skills. Recently finished Harvard CS50 - Web Programming with **Python** and **JavaScript**
 
 ---
 
