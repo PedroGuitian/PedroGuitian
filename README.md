@@ -1,8 +1,8 @@
 # Pedro Guitian
 
-I'm a **Computer Science major** and **Applied AI Minor** at Marist University (3.92 GPA).
+I'm a **Computer Science major** and **Applied AI Minor** at Marist University (3.93 GPA).
 
-I'm currently focused on **building full-stack applications such as Cramora AI**.
+I'm currently focused on **learning more deeply about computer science concepts, system design, and building full-stack applications, such as one of my most recent, Cramora AI**.
 
 ---
 
@@ -51,8 +51,8 @@ Agile, Object-Oriented Programming OOP, LLM/AI integration
 
 ## 🌟 What I'm working on
 
-- Just launched **[Cramora AI](https://www.cramora.com/)**. An app that aims to help students prepare for exams last-minute with the power of AI
-- Exploring AI integrations into web apps through different models
+- Just launched **[Cramora AI](https://www.cramora.com/)**. An app that aims to help students prepare for exams last-minute with the help of AI
+- Exploring backend system architecture and application scalability
 - Continuously improving my engineering skills. Recently finished Harvard CS50 - Web Programming with **Python** and **JavaScript**
 
 ---
