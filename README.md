@@ -8,7 +8,8 @@ I'm currently focused on **building full-stack applications such as Cramora AI**
 
 ## 👨‍💻 Projects I'm proud of
  
-- **[Cramora AI](https://www.cramora.com/)** — An AI-powered learning platform that generates 1-page cram sheets and predicts test questions to help students cram more efficiently. Built using Django, JavaScript, and LLM-powered APIs.  
+- **[Cramora AI](https://www.cramora.com/)** — An AI-powered learning platform that generates 1-page cram sheets and predicts test questions to help students cram more efficiently. Built using Django, JavaScript, and LLM-powered APIs.
+- **Compiler in Java (In Progress)** - I am currently working on building a compiler in Java for a tiny Grammar. I am including a Lexer, Parser, Semantic Analysis, and Code Generator.
 - **Email Client** — Full-stack email application, implementing asynchronous email sending, mailbox updates, archive/unarchive, and reply features. Built using Django, JavaScript, and SQLite.
 - **Auction Marketplace** —  Full-stack web application that allows users to list items, place bids in real time, and manage watchlists in a dynamic, user-friendly interface.
   
