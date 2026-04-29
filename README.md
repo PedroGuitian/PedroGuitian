@@ -44,8 +44,8 @@ Agile, Object-Oriented Programming OOP, LLM/AI integration
 ## 🏆 Highlights
 
 - 🎓 Presidential Scholar at Marist University, totaling $80,000 in merit grants (3.92 GPA)
-- 💼 Software Engineering Intern @ Travelers (Summer 2025)
-- 🚣 Varsity Rowing Team — balancing athletics and academics with strong time management (Sep 2023 - Jan 2025)
+- 💼 Incoming Backend Developer Intern @ IBM (Summer 2026) | Software Engineering Intern @ Travelers (Summer 2025)
+- 🚣 Varsity Rowing Team - balancing athletics and academics with strong time management (Sep 2023 - Jan 2025)
 
 ---
 
