@@ -6,14 +6,14 @@ I'm currently focused on **learning more deeply about computer science concepts,
 
 ---
 
-## 👨‍💻 Projects I'm proud of
+## Projects I'm proud of
  
 - **[Cramora AI](https://www.cramora.com/)** — A study platform that has all Quizlet Premium features but for less than half the price $3.99 vs the $9.99 Quizlet charges
 - **Compiler in Java** - I am currently working on building a compiler in Java for a tiny Grammar. I am including a Lexer, Parser, Semantic Analysis, and Code Generator.
 - **6502a Microprocessor** — Coming soon
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -38,14 +38,14 @@ Agile, Object-Oriented Programming OOP, LLM/AI integration
 
 ---
 
-## 🏆 Highlights
+## Highlights
 
-- 🎓 Presidential Scholar at Marist University, totaling $80,000 in merit grants (3.92 GPA)
-- 💼 Incoming Backend Developer Intern @ IBM (Summer 2026) | Software Engineering Intern @ Travelers (Summer 2025)
+- Presidential Scholar at Marist University, totaling $80,000 in merit grants (3.92 GPA)
+- Incoming Backend Developer Intern @ IBM (Summer 2026) | Software Engineering Intern @ Travelers (Summer 2025)
 
 ---
 
-## 🌟 What I'm working on
+## What I'm working on
 
 - Just launched **[Cramora AI](https://www.cramora.com/)**. An app that aims to help students prepare for exams last-minute with the help of AI
 - Exploring backend system architecture and application scalability
@@ -53,8 +53,8 @@ Agile, Object-Oriented Programming OOP, LLM/AI integration
 
 ---
 
-## 📫 Let's connect
+## Let's connect
 
-- 🌐 [My Portfolio](https://pedroguitian.github.io/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-guitian/)
-- ✉️ Email: pedro.guitian1@marist.edu
+- [My Portfolio](https://pedroguitian.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/pedro-guitian/)
+- Email: pedro.guitian1@marist.edu
