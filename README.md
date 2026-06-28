@@ -6,54 +6,36 @@ I'm a **Computer Science major** and **Applied AI Minor** at Marist University (
 
 ## Projects I'm proud of
 
-- **[Use Surfer](https://www.usesurfer.com/)** — A Reddit marketing tool to drive website traffic, improve SEO, and GEO.
+- **[Use Surfer](https://www.usesurfer.com/)** — A Reddit marketing tool to drive website traffic, improve SEO, and GEO. Currently in pre-launch phase
 - **Compiler in Java** - Built a compiler in Java for a tiny toy Grammar, including a Lexer, Parser, Semantic Analysis, and Code Generator.
 - **6502a Microprocessor** — Built a virtual 6502 processor written in TypeScript and running on Node.js
-- **[Cramora AI (Paused)](https://www.cramora.com/)** — A study platform that has all Quizlet Premium features but for less than half the price, $3.99 vs the $9.99 Quizlet charges
+- **[Cramora AI (Paused)](https://www.cramora.com/)** — A study platform that has all Quizlet Premium features but for less than half the price, $3.99 vs the $9.99 Quizlet charges. Paused
 ---
 
 ## Technical Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-
-- **Languages & Frameworks:**  Python, Java, SQL, HTML5, CSS, JavaScript, Django, React
-- **Tools & Technologies:**  API/REST, Swagger, Git, GitHub, GitHub Actions, Jira, PostgreSQL, MySQL, CI/CD, MERN,
-Agile, Object-Oriented Programming OOP, LLM/AI integration
+- **Languages & Frameworks:**  Python, Java, SQL, HTML, CSS, JavaScript, Django, React, FastAPI
+- **Tools & Technologies:**  API/REST, Swagger, Git, GitHub, GitHub Actions, Jira, PostgreSQL, MySQL, CI/CD,
+Agile, Object-Oriented Programming OOP, LLM/AI integration, Pytest, Selenium, Playwright
 
 ---
 
 ## Highlights
 
 - Presidential Scholar at Marist University, totaling $80,000 in merit grants (3.92 GPA)
-- Incoming Backend Developer Intern @ IBM (Summer 2026) | Software Engineering Intern @ Travelers (Summer 2025)
+- Backend Developer Intern @ IBM (Summer 2026) | Software Engineering Intern @ Travelers (Summer 2025)
 
 ---
 
 ## What I'm working on
 
-- Just launched **[Cramora AI](https://www.cramora.com/)**. An app that aims to help students prepare for exams last-minute with the help of AI
-- Exploring backend system architecture and application scalability
-- Continuously improving my engineering skills. Recently finished Harvard CS50 - Web Programming with **Python** and **JavaScript**
+- Building **[Use Surfer](https://www.usesurfer.com/)**. An web app that aims to help founders effectively drive traffic to their website, improve SEO, and GEO
+- Interning at IBM
 
 ---
 
 ## Let's connect
 
-- [My Portfolio](https://pedroguitian.github.io/)
+- [My Portfolio](https://pedroguitian.com/)
 - [LinkedIn](https://www.linkedin.com/in/pedro-guitian/)
 - Email: pedro.guitian1@marist.edu
