@@ -2,8 +2,6 @@
 
 I'm a **Computer Science major** and **Applied AI Minor** at Marist University (3.93 GPA).
 
-I'm currently focused on **learning more deeply about computer science concepts, system design, and building full-stack applications, such as one of my most recent, Cramora AI**.
-
 ---
 
 ## Projects I'm proud of
