@@ -6,8 +6,8 @@ I'm a **Computer Science major** and **Applied AI Minor** at Marist University (
 
 ## Projects I'm proud of
 
-- **[Use Surfer](https://www.usesurfer.com/)** — A Reddit marketing tool to drive website traffic, improve SEO, and GEO. Currently in pre-launch phase
-- **Compiler in Java** - Built a compiler in Java for a tiny toy Grammar, including a Lexer, Parser, Semantic Analysis, and Code Generator.
+- **[Use Surfer](https://www.usesurfer.com/)** — A Reddit marketing tool to drive website traffic, improve SEO, and GEO. Currently in the pre-launch phase
+- **[Compiler in Java](https://github.com/PedroGuitian/CompilersSemesterProject)** - Built a compiler in Java for a tiny toy Grammar, including a Lexer, Parser, Semantic Analysis, and Code Generator.
 - **6502a Microprocessor** — Built a virtual 6502 processor written in TypeScript and running on Node.js
 - **[Cramora AI (Paused)](https://www.cramora.com/)** — A study platform that has all Quizlet Premium features but for less than half the price, $3.99 vs the $9.99 Quizlet charges. Paused
 ---
