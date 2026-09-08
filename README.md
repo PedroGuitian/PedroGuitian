@@ -35,7 +35,5 @@ Agile, Object-Oriented Programming OOP, LLM/AI integration, Pytest, Selenium, Pl
 ---
 
 ## Let's connect
-
-- [My Portfolio](https://pedroguitian.com/)
 - [LinkedIn](https://www.linkedin.com/in/pedro-guitian/)
 - Email: pedro.guitian1@marist.edu
