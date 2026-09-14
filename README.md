@@ -29,8 +29,7 @@ Agile, Object-Oriented Programming OOP, LLM/AI integration, Pytest, Selenium, Pl
 
 ## What I'm working on
 
-- Building **[Use Surfer](https://www.usesurfer.com/)**. An web app that aims to help founders effectively drive traffic to their website, improve SEO, and GEO
-- Interning at IBM
+- Building **[GoBlumer](https://www.goblume.ai/)**. An app that helps you track and improve your startup's AI visibility across ChatGPT, Gemini, Perplexity, Claude, Google AI Overviews, and Microsoft Copilot.
 
 ---
 
