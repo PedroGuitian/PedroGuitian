@@ -6,10 +6,10 @@ I'm a **Computer Science major** and **Applied AI Minor** at Marist University (
 
 ## Projects I'm proud of
 
-- **[GoBlume](https://goblume.ai/)** - A GEO tool to help startups track and improve their AI visibility across ChatGPT, Claude, Gemini, and Perplexity
+- **[GoBlume](https://goblume.ai/)** - An AEO tool to help startups track and improve their AI visibility across ChatGPT, Claude, Gemini, Perplexity, Google AI Mode, and AI Overviews
 - **[Compiler in Java](https://github.com/PedroGuitian/CompilersSemesterProject)** - Built a compiler in Java for a tiny toy Grammar, including a Lexer, Parser, Semantic Analysis, and Code Generator.
 - **6502a Microprocessor (Private Repo from University Organization)** - Built a virtual 6502 processor written in TypeScript and running on Node.js
-- **[Cramora AI (Paused)](https://www.cramora.com/)** - A study platform that has all Quizlet Premium features but for less than half the price, $3.99 vs the $9.99 Quizlet charges. Paused
+- **[Cramora AI (Paused)](https://www.cramora.com/)** - A study platform that has all Quizlet Premium features but for less than half the price, $3.99 vs. the $9.99 Quizlet charges. Paused
 ---
 
 ## Technical Skills
@@ -29,7 +29,7 @@ Agile, Object-Oriented Programming OOP, LLM/AI integration, Pytest, Selenium, Pl
 
 ## What I'm working on
 
-- Building **[GoBlumer](https://www.goblume.ai/)**. An app that helps you track and improve your startup's AI visibility across ChatGPT, Gemini, Perplexity, Claude, Google AI Overviews, and Microsoft Copilot.
+- Building **[GoBlume](https://www.goblume.ai/)**. An app that helps you track and improve your startup's AI visibility across ChatGPT, Gemini, Perplexity, Claude, Google AI Overviews, and Google AI Mode in order to increase customer acquisition.
 
 ---
 
